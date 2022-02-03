@@ -1,7 +1,7 @@
 function yp=derivee2(h,y)
 % 2-order numerical derivative
 %
-%   INPUT
+%   INPUT 
 %   - h: time step
 %   - y: input data
 %   OUTPUT
